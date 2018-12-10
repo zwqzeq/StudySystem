@@ -28,7 +28,7 @@
 		</div>
 		<div id="content_right">
 			<div id="stuInfo">
-				<span id="class_add_button"><a href="<%=basepath %>/jsp/ClassInfoAdd.jsp">添&nbsp;加</a></span>
+				<span id="class_add_button"><a href="<%=basepath %>/jsp/course/ClassInfoAdd.jspAdd.jsp">添&nbsp;加</a></span>
 			</div>
 			<div id="stuInfoTable">
 				<table id="stuTableContent">

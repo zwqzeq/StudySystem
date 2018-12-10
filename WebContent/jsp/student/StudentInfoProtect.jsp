@@ -55,7 +55,7 @@
 				</span>
 				
 				<button id="search_button1" type="submit">搜&nbsp;索</button>
-				<span id="search_button"><a href="${basepath}/jsp/StudentInfoAdd.jsp">添&nbsp;加</a></span>
+				<span id="search_button"><a href="${basepath}/jsp/student/StudentInfoAdd.jsp">添&nbsp;加</a></span>
 			</form>
 			</div>
 			<div id="stuInfoTable">
